@@ -63,3 +63,5 @@ grails.project.dependency.resolution = {
         compile ":restapidoc:0.1.3"
     }
 }
+
+grails.server.port.http=9000
